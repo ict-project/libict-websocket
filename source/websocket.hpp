@@ -36,6 +36,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 #ifndef _ICT_WEBSOCKET_HEADER
 #define _ICT_WEBSOCKET_HEADER
 #include <string>
+#include <cstdint>
 //===========================================
 namespace ict { namespace websocket {
 //===========================================
